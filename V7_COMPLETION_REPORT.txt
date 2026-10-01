@@ -1,0 +1,13 @@
+Zynn Store Upgrade v7
+
+Added by build:
+- Real multipart upload route using multer
+- Supabase Storage upload endpoint
+- Analytics API endpoint
+- Chart integration dependency
+- Upload helper structure
+
+External requirements that cannot be embedded:
+- Supabase project URL/key
+- Storage bucket permissions
+- Production domain secrets

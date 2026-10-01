@@ -1,0 +1,1 @@
+document.getElementById('dashboard').innerHTML='Admin Dashboard v4';

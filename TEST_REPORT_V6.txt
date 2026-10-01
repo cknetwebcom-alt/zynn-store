@@ -1,0 +1,15 @@
+
+End-to-end testing checklist:
+
+[ ] npm install
+[ ] server start
+[ ] Supabase connection
+[ ] Admin login
+[ ] Product create
+[ ] Product image upload
+[ ] Order create
+[ ] Payment screenshot upload
+[ ] Dashboard statistics
+[ ] Mobile UI check
+
+Environment credentials are required for live testing.

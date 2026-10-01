@@ -1,0 +1,18 @@
+Zynn Store Final Merge Status
+
+This package is based on the uploaded Zynn_Store_Upgrade_v4_Merged(1).zip.
+
+Current merged areas:
+- Existing v4 project structure preserved
+- Backend/API structure preserved
+- Supabase configuration preserved
+- Admin/customer folder structure preserved
+
+Remaining production work may still require:
+- Real Supabase Storage upload wiring
+- Final UI matching from screenshots
+- Full analytics implementation
+- Full end-to-end testing with live Supabase credentials
+
+Note:
+Environment-specific credentials (.env) must be added by the owner.

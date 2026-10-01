@@ -1,0 +1,16 @@
+
+:root{
+ --bg:#020617;
+ --card:#111827;
+ --text:#ffffff;
+}
+body{
+ background:var(--bg);
+ color:var(--text);
+ font-family:Arial,sans-serif;
+}
+.card{
+ background:var(--card);
+ border-radius:18px;
+ padding:20px;
+}

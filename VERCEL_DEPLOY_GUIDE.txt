@@ -1,0 +1,16 @@
+Vercel Update
+
+Added:
+- api/index.js serverless entry
+- vercel.json routing
+- server export compatibility
+
+Deploy:
+1. Import GitHub repository into Vercel
+2. Add environment variables:
+SUPABASE_URL
+SUPABASE_KEY
+JWT_SECRET
+ADMIN_USERNAME
+ADMIN_PASSWORD
+3. Deploy

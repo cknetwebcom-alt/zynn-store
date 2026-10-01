@@ -1,0 +1,12 @@
+Merged v4 package.
+
+Added:
+- Admin dashboard page structure
+- Dashboard data loader
+- Customer order page structure
+- Storage setup notes
+
+Remaining production tasks:
+- Connect real Supabase Storage upload policies
+- Add final UI assets
+- Add full analytics charts
